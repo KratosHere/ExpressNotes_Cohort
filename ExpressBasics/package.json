@@ -1,0 +1,18 @@
+{
+  "name": "expressnotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http-server-1.js",
+  "scripts": {
+    "start1": "nodemon http-server-1.js",
+    "start2": "nodemon http-server-2.js",
+    "hospital": "nodemon HOSPITAL.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
